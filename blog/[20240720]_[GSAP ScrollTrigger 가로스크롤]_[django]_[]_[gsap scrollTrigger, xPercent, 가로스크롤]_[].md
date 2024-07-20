@@ -13,20 +13,12 @@ gsap 가로 스크롤 애니메이션
                 <div class="imgBox">
                     <img src="https://cdn.pixabay.com/photo/2023/08/19/13/42/flowers-8200510_960_720.jpg" alt="">
                 </div>
-                <div class="textBox">
-                    <p class="title">Site name</p>
-                    <p class="text en2">UI/UX Design, web Publiching</p>
-                </div>
             </a>
         </li>
         <li>
             <a href="#">
                 <div class="imgBox">
                     <img src="https://cdn.pixabay.com/photo/2023/12/29/18/23/board-game-8476665_1280.jpg" alt="">
-                </div>
-                <div class="textBox">
-                    <p class="title">Site name</p>
-                    <p class="text en2">UI/UX Design, web Publiching</p>
                 </div>
             </a>
         </li>
@@ -35,20 +27,12 @@ gsap 가로 스크롤 애니메이션
                 <div class="imgBox">
                     <img src="https://cdn.pixabay.com/photo/2024/06/17/23/30/trees-8836655_1280.jpg" alt="">
                 </div>
-                <div class="textBox">
-                    <p class="title">Site name</p>
-                    <p class="text en2">UI/UX Design, web Publiching</p>
-                </div>
             </a>
         </li>
         <li>
             <a href="#">
                 <div class="imgBox">
                     <img src="https://cdn.pixabay.com/photo/2024/05/09/17/24/shih-tzu-8751508_1280.jpg" alt="">
-                </div>
-                <div class="textBox">
-                    <p class="title">Site name</p>
-                    <p class="text en2">UI/UX Design, web Publiching</p>
                 </div>
             </a>
         </li>
@@ -57,20 +41,12 @@ gsap 가로 스크롤 애니메이션
                 <div class="imgBox">
                     <img src="https://cdn.pixabay.com/photo/2024/02/09/23/02/trees-8563877_1280.jpg" alt="">
                 </div>
-                <div class="textBox">
-                    <p class="title">Site name</p>
-                    <p class="text en2">UI/UX Design, web Publiching</p>
-                </div>
             </a>
         </li>
         <li>
             <a href="#">
                 <div class="imgBox">
                     <img src="https://cdn.pixabay.com/photo/2024/01/11/12/46/pitbull-8501582_1280.jpg" alt="">
-                </div>
-                <div class="textBox">
-                    <p class="title">Site name</p>
-                    <p class="text en2">UI/UX Design, web Publiching</p>
                 </div>
             </a>
         </li>
