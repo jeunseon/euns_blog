@@ -1,6 +1,6 @@
 gsap 가로 스크롤 애니메이션
 
-![가로스크롤 이미지](../img/xPercent_Scroll.jpg)
+![xPercent_Scroll](https://github.com/user-attachments/assets/6086c9bc-b896-40f2-8952-1515fda66aea)
 
 스크롤 내릴 시 가로로 스크롤이 되는 js 코드
 
