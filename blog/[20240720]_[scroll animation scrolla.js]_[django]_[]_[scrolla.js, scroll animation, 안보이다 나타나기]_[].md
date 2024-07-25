@@ -6,9 +6,12 @@
 <script src="https://cdn.jsdelivr.net/npm/jquery-scrolla@0.0.3/dist/js/jquery.scrolla.min.js"></script>
 ```
 
-See the Pen [Untitled](https://codepen.io/jeunseon/pen/KKjgywP) by jeunseon ([@jeunseon](https://codepen.io/jeunseon)) on [CodePen](https://codepen.io).
-
-<script src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="KKjgywP" data-pen-title="Untitled" data-user="jeunseon" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/jeunseon/pen/KKjgywP">
+  Untitled</a> by jeunseon (<a href="https://codepen.io/jeunseon">@jeunseon</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
 HTML 코드
 
