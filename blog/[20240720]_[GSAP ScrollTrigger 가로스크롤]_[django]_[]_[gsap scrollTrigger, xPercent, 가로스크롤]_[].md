@@ -5,6 +5,14 @@ gsap 가로 스크롤 애니메이션
 
 스크롤 내릴 시 가로로 스크롤이 되는 js 코드
 
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="oNrzpmN" data-pen-title="gsap scrollTrigger 가로스크롤" data-user="jeunseon" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/jeunseon/pen/oNrzpmN">
+  gsap scrollTrigger 가로스크롤</a> by jeunseon (<a href="https://codepen.io/jeunseon">@jeunseon</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+
 ```HTML
 <!-- gallery -->
 <section class="work">
