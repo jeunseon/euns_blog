@@ -57,31 +57,63 @@
 <p data-ke-size="size18">1. 문자툴( T )로 검색하기 입력</p>
 <p data-ke-size="size18">&nbsp;</p>
 <p data-ke-size="size18">2. 리소스 툴(Shift + I)에서 'FeatherIcons'에서 'search, heart, rotate, send' 4개의 아이콘을 가져온다.</p>
-<p>[##_Image|kage@brrMLl/btsI03yKDdd/FTd5aQYl4vpdVyP8c8oxdk/img.png|CDM|1.3|{"originWidth":550,"originHeight":537,"style":"alignCenter","filename":"1. 리소스툴.png"}_##]</p>
+
+<a href="https://blog.kakaocdn.net/dn/brrMLl/btsI03yKDdd/FTd5aQYl4vpdVyP8c8oxdk/img.png">
+    <img src="https://blog.kakaocdn.net/dn/brrMLl/btsI03yKDdd/FTd5aQYl4vpdVyP8c8oxdk/img.png" alt="리소스 툴(Shift + I)">
+</a>
+
 <p data-ke-size="size18">&nbsp;</p>
 <p data-ke-size="size18">3. 4개의 아이콘 모두 선택하고 &lt;Create multiple components&gt;로 아이콘을 컴포넌트화</p>
-<p>[##_Image|kage@ck4988/btsIZzeOBuE/SJjIiXku9fkLbx9IhKyIu1/img.png|CDM|1.3|{"originWidth":456,"originHeight":525,"style":"alignCenter","filename":"edited_1. 리소스툴.png"}_##]</p>
+
+<a href="https://blog.kakaocdn.net/dn/ck4988/btsIZzeOBuE/SJjIiXku9fkLbx9IhKyIu1/img.png">
+    <img src="https://blog.kakaocdn.net/dn/ck4988/btsIZzeOBuE/SJjIiXku9fkLbx9IhKyIu1/img.png" alt="Create multiple components">
+</a>
+
 <p data-ke-size="size16">&nbsp;</p>
 <p data-ke-size="size18">4. 아이콘 하나와 텍스트를 배치한 뒤 Shift + A 로 오토 레이아웃화</p>
-<p>[##_Image|kage@bAuzgp/btsI03S2CF3/hk5flc65KsZMRjPtIKyCg0/img.png|CDM|1.3|{"originWidth":667,"originHeight":307,"style":"alignCenter","filename":"3.오토레이아웃.png"}_##]</p>
+
+<a href="https://blog.kakaocdn.net/dn/bAuzgp/btsI03S2CF3/hk5flc65KsZMRjPtIKyCg0/img.png">
+    <img src="https://blog.kakaocdn.net/dn/bAuzgp/btsI03S2CF3/hk5flc65KsZMRjPtIKyCg0/img.png" alt="오토 레이아웃">
+</a>
+
 <p data-ke-size="size18">&nbsp;</p>
 <p data-ke-size="size18">5. 프레임 선택해 버튼 색상, 모서리 곡률, 상하좌우 패딩 설정</p>
-<p>[##_Image|kage@qiix4/btsIZWAPJv5/QFI2vGeIeOiSOBjpO4zKb0/img.png|CDM|1.3|{"originWidth":740,"originHeight":341,"style":"alignCenter","filename":"5.png"}_##]</p>
+
+<a href="https://blog.kakaocdn.net/dn/qiix4/btsIZWAPJv5/QFI2vGeIeOiSOBjpO4zKb0/img.png">
+    <img src="https://blog.kakaocdn.net/dn/qiix4/btsIZWAPJv5/QFI2vGeIeOiSOBjpO4zKb0/img.png" alt="오토레이아웃 속성">
+</a>
+
 <p data-ke-size="size18">&nbsp;</p>
 <p data-ke-size="size18">6. 글자와 아이콘 색상 변경</p>
 <p data-ke-size="size18">&nbsp;</p>
 <p data-ke-size="size18">7. 완성한 버튼을 프레임 선택 후 Ctrl + Alt + K 로 컴포넌트화 후 컴포넌트 레이어 이름 변경</p>
-<p>[##_Image|kage@cV9Puo/btsI0eONdSM/50MvhNSskWfHstlHD4BU6k/img.png|CDM|1.3|{"originWidth":762,"originHeight":487,"style":"alignCenter","filename":"7.png"}_##]</p>
+
+<a href="https://blog.kakaocdn.net/dn/cV9Puo/btsI0eONdSM/50MvhNSskWfHstlHD4BU6k/img.png">
+    <img src="https://blog.kakaocdn.net/dn/cV9Puo/btsI0eONdSM/50MvhNSskWfHstlHD4BU6k/img.png" alt="Ctrl + Alt + K 로 컴포넌트화">
+</a>
+
 <p data-ke-size="size18">&nbsp;</p>
 <p data-ke-size="size18">8. 아이콘 선택 후 디자인 패널의 Appearance 에서 Create boolean property 설정창을 열고</p>
 <p data-ke-size="size18">Name, Value 값 설정 후 Create property 버튼 클릭</p>
-<p>[##_Image|kage@cnuv5b/btsIZ7vlrDD/3UqeYrp0S3QpbSifNNDU01/img.png|CDM|1.3|{"originWidth":1868,"originHeight":293,"style":"alignCenter","filename":"edited_edited_8.png"}_##][##_Image|kage@VwluG/btsIZqoUcHp/ZauWKbq89fTRXdO5cld6rk/img.png|CDM|1.3|{"originWidth":430,"originHeight":273,"style":"alignCenter","filename":"8-1.png"}_##]</p>
+
+<a href="https://blog.kakaocdn.net/dn/VwluG/btsIZqoUcHp/ZauWKbq89fTRXdO5cld6rk/img.png">
+    <img src="https://blog.kakaocdn.net/dn/VwluG/btsIZqoUcHp/ZauWKbq89fTRXdO5cld6rk/img.png" alt="Create boolean property">
+</a>
+
 <p data-ke-size="size18">&nbsp;</p>
 <p data-ke-size="size18">9. 텍스트 프로퍼티는 Typography에서 Create text property 아이콘을 선택하여 설정창 열고,</p>
 <p data-ke-size="size18">Name, Value 값 입력하여 &lt;Create property&gt; 버튼 클릭</p>
-<p>[##_Image|kage@dCG3BA/btsIZtzbiS8/aoUOhsjyM2kP1SsMQAcRP0/img.png|CDM|1.3|{"originWidth":707,"originHeight":415,"style":"alignCenter","filename":"9.png"}_##]</p>
+
+<a href="https://blog.kakaocdn.net/dn/dCG3BA/btsIZtzbiS8/aoUOhsjyM2kP1SsMQAcRP0/img.png">
+    <img src="https://blog.kakaocdn.net/dn/dCG3BA/btsIZtzbiS8/aoUOhsjyM2kP1SsMQAcRP0/img.png" alt="Typography에서 Create text property 아이콘">
+</a>
+
 <p data-ke-size="size18">&nbsp;</p>
-<p>[##_Image|kage@rGOdQ/btsIZrg3aum/A0XXO01XYQoL4Za8VHTwF0/img.png|CDM|1.3|{"originWidth":433,"originHeight":272,"style":"alignCenter","filename":"10.png"}_##]</p>
+
+<a href="https://blog.kakaocdn.net/dn/rGOdQ/btsIZrg3aum/A0XXO01XYQoL4Za8VHTwF0/img.png">
+    <img src="https://blog.kakaocdn.net/dn/rGOdQ/btsIZrg3aum/A0XXO01XYQoL4Za8VHTwF0/img.png" alt="Create text property 설정창">
+</a>
+
 <p data-ke-size="size18">&nbsp;</p>
 <p data-ke-size="size18">10. 인스턴스 스왑 프로퍼티는 아이콘만 선택 후 디자인 패널의 search 에서 Create instance swap property 아이콘을 클릭해서 Create instance swap property 설정창을 열고, Name, Value:search로 설정하고 Create property 클릭</p>
 <p data-ke-size="size18">&nbsp;</p>
