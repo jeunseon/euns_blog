@@ -95,13 +95,19 @@ gsap.timeline({
 <p data-ke-size="size16">&nbsp;</p>
 <p data-ke-size="size16">&nbsp;</p>
 <p data-ke-size="size16">&nbsp;</p>
-<p class="codepen" style="height: 500px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-height="500" data-default-tab="html,result" data-slug-hash="JjQEPQG" data-pen-title="j.young 클론코딩 con5 영역 showImg" data-user="jeunseon" data-ke-size="size16"><span>See the Pen <a href="https://codepen.io/jeunseon/pen/JjQEPQG"> j.young 클론코딩 con5 영역 showImg</a> by jeunseon (<a href="https://codepen.io/jeunseon">@jeunseon</a>) on <a href="https://codepen.io">CodePen</a>.</span></p>
-<p data-ke-size="size16">
-<script src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="JjQEPQG" data-pen-title="j.young 클론코딩 con5 영역 showImg" data-user="jeunseon" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/jeunseon/pen/JjQEPQG">
+  j.young 클론코딩 con5 영역 showImg</a> by jeunseon (<a href="https://codepen.io/jeunseon">@jeunseon</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
 <p data-ke-size="size16">&nbsp;</p>
 <p data-ke-size="size16">&nbsp;</p>
-<p class="codepen" style="height: 500px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-height="500" data-default-tab="html,result" data-slug-hash="BagVzRm" data-pen-title="Untitled" data-user="jeunseon" data-ke-size="size16"><span>See the Pen <a href="https://codepen.io/jeunseon/pen/BagVzRm"> Untitled</a> by jeunseon (<a href="https://codepen.io/jeunseon">@jeunseon</a>) on <a href="https://codepen.io">CodePen</a>.</span></p>
-<p data-ke-size="size16">
-<script src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="BagVzRm" data-pen-title="hover ShowImg gsap" data-user="jeunseon" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/jeunseon/pen/BagVzRm">
+  hover ShowImg gsap</a> by jeunseon (<a href="https://codepen.io/jeunseon">@jeunseon</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
