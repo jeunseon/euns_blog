@@ -1,9 +1,9 @@
-<p>html 영역</p>
-<pre><code class="language-html">&lt;div class=&quot;wrap&quot;&gt;
+<p data-ke-size="size16">html 영역</p>
+<pre class="javascript"><code>&lt;div class="wrap"&gt;
   &lt;!-- con5 --&gt;
-  &lt;section class=&quot;showImg&quot;&gt;
-    &lt;div class=&quot;inner&quot;&gt;
-      &lt;ul class=&quot;listBox&quot;&gt;
+  &lt;section class="showImg"&gt;
+    &lt;div class="inner"&gt;
+      &lt;ul class="listBox"&gt;
         &lt;li&gt;
           &lt;h3&gt;Daebang&lt;/h3&gt;
           &lt;p&gt;Undustry&lt;/p&gt;
@@ -25,14 +25,14 @@
           &lt;p&gt;2024&lt;/p&gt;
         &lt;/li&gt;
       &lt;/ul&gt;
-      &lt;div class=&quot;imgBox box&quot;&gt;
-        &lt;img src=&quot;images/img0.jpg&quot; alt=&quot;&quot;&gt;
+      &lt;div class="imgBox box"&gt;
+        &lt;img src="images/img0.jpg" alt=""&gt;
       &lt;/div&gt;
     &lt;/div&gt;
   &lt;/section&gt;  
 &lt;/div&gt;</code></pre>
-<p>css 영역</p>
-<pre><code class="language-css">.wrap {
+<p data-ke-size="size16">css 영역</p>
+<pre class="css"><code>.wrap {
     position: relative;
 }
 
@@ -58,27 +58,27 @@
   overflow: hidden
   /*  이미지로 인해 스크롤이 생기지 않도록  */
 }</code></pre>
-<p>js 영역</p>
-<pre><code class="language-js">gsap .registerPlugin(ScrollTrigger);
+<p data-ke-size="size16">js 영역</p>
+<pre class="typescript"><code>gsap .registerPlugin(ScrollTrigger);
 
 // 07. showImg listBox li hover 시 이미지 보이는 애니
-let listBox = document.querySelectorAll(&#39;.showImg .listBox &gt; li&#39;);
-let imgBox = document.querySelector(&#39;.showImg .imgBox&#39;);
-let img = document.querySelector(&#39;.showImg .imgBox &gt; img&#39;);
+let listBox = document.querySelectorAll('.showImg .listBox &gt; li');
+let imgBox = document.querySelector('.showImg .imgBox');
+let img = document.querySelector('.showImg .imgBox &gt; img');
 
 for(let i = 0; i &lt; listBox.length; i++){
-  listBox[i].addEventListener(&#39;mouseover&#39;, () =&gt; {
+  listBox[i].addEventListener('mouseover', () =&gt; {
     img.src = `images/img${i}.jpg`;
     gsap.set(imgBox, {scale: 0, opacity: 0, duration: .3}),
     gsap.to(imgBox, {scale: 1, opacity: 1, duration: .3})
   })
-  listBox[i].addEventListener(&#39;mousemove&#39;, (e) =&gt; {
+  listBox[i].addEventListener('mousemove', (e) =&gt; {
     let imgBoxX = e.pageX + 20;
     let imgBoxY = e.pageY - 20;
-    imgBox.style.left = imgBoxX + &#39;px&#39;
-    imgBox.style.top = imgBoxY + &#39;px&#39;
+    imgBox.style.left = imgBoxX + 'px'
+    imgBox.style.top = imgBoxY + 'px'
   })
-  listBox[i].addEventListener(&#39;mouseout&#39;, () =&gt; {
+  listBox[i].addEventListener('mouseout', () =&gt; {
     gsap.to(imgBox, {scale: 0, opacity: 0, duration: .3})
   })
 }
@@ -86,19 +86,22 @@ for(let i = 0; i &lt; listBox.length; i++){
 // 다른쪽에 position: sticky; 가 있는 경우에 일정 부분만  overflow: hidden 을 붙여주기위해 toggleClass 를 사용한다.
 gsap.timeline({
   scrollTrigger: {
-    trigger: &#39;.showImg&#39;,
-    start: &#39;0% 100%&#39;,
-    end: &#39;100% 0%&#39;,
-    toggleClass:{targets: &#39;.wrap&#39;, className:&#39;on&#39;}
+    trigger: '.showImg',
+    start: '0% 100%',
+    end: '100% 0%',
+    toggleClass:{targets: '.wrap', className:'on'}
   }
 })</code></pre>
-
-
-<p>See the Pen <a href="https://codepen.io/jeunseon/pen/JjQEPQG">j.young con5 영역</a> by jeunseon (<a href="https://codepen.io/jeunseon">@jeunseon</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p class="codepen" style="height: 500px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-height="500" data-default-tab="html,result" data-slug-hash="JjQEPQG" data-pen-title="j.young 클론코딩 con5 영역 showImg" data-user="jeunseon" data-ke-size="size16"><span>See the Pen <a href="https://codepen.io/jeunseon/pen/JjQEPQG"> j.young 클론코딩 con5 영역 showImg</a> by jeunseon (<a href="https://codepen.io/jeunseon">@jeunseon</a>) on <a href="https://codepen.io">CodePen</a>.</span></p>
+<p data-ke-size="size16">
 <script src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
-
-
-
-
-<p>See the Pen <a href="https://codepen.io/jeunseon/pen/BagVzRm">showImg</a> by jeunseon (<a href="https://codepen.io/jeunseon">@jeunseon</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p class="codepen" style="height: 500px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-height="500" data-default-tab="html,result" data-slug-hash="BagVzRm" data-pen-title="Untitled" data-user="jeunseon" data-ke-size="size16"><span>See the Pen <a href="https://codepen.io/jeunseon/pen/BagVzRm"> Untitled</a> by jeunseon (<a href="https://codepen.io/jeunseon">@jeunseon</a>) on <a href="https://codepen.io">CodePen</a>.</span></p>
+<p data-ke-size="size16">
 <script src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+</p>
