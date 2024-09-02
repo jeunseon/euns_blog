@@ -1,7 +1,7 @@
 gsap 가로 스크롤 애니메이션
-
-![xPercent_Scroll](https://github.com/user-attachments/assets/6086c9bc-b896-40f2-8952-1515fda66aea)
-![xPercent_Scroll](../img/clip-path.jpg)
+<a href="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FuvnN0%2FbtsIGytvdm0%2F1kyUlINF0fu7Z7UyxGKOoK%2Fimg.jpg">
+    <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FuvnN0%2FbtsIGytvdm0%2F1kyUlINF0fu7Z7UyxGKOoK%2Fimg.jpg" alt="xPercent_Scroll">
+</a>
 
 스크롤 내릴 시 가로로 스크롤이 되는 js 코드
 
