@@ -6,7 +6,8 @@
 <p data-ke-size="size16">
 <script src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 </p>
-<img src="https://blog.kakaocdn.net/dn/0LuFi/btsJveGbE4O/j4qGVn8cX40AWZOXcx3nH0/img.png" alt="cursor custom 모습">
+<figure class="imageblock alignCenter" data-ke-mobilestyle="widthOrigin" data-filename="스크린샷 2024-09-06 174622.png" data-origin-width="1816" data-origin-height="426"><span data-url="https://blog.kakaocdn.net/dn/clLb1I/btsJut5h3nQ/Xe7Ewm3k3i37U1feJkz5Ek/img.png" data-phocus="https://blog.kakaocdn.net/dn/clLb1I/btsJut5h3nQ/Xe7Ewm3k3i37U1feJkz5Ek/img.png" data-alt="gsap to 를 이용한 cursor circle 모습"><img src="https://blog.kakaocdn.net/dn/clLb1I/btsJut5h3nQ/Xe7Ewm3k3i37U1feJkz5Ek/img.png" srcset="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&amp;fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FclLb1I%2FbtsJut5h3nQ%2FXe7Ewm3k3i37U1feJkz5Ek%2Fimg.png" onerror="this.onerror=null; this.src='//t1.daumcdn.net/tistory_admin/static/images/no-image-v1.png'; this.srcset='//t1.daumcdn.net/tistory_admin/static/images/no-image-v1.png';" data-filename="스크린샷 2024-09-06 174622.png" data-origin-width="1816" data-origin-height="426" data-phocus-index="0"></span><figcaption>gsap to 를 이용한 cursor circle 모습</figcaption>
+</figure>
 <p data-ke-size="size16">HTML</p>
 <pre id="code_1725612038519" class="html xml" data-ke-language="html" data-ke-type="codeblock"><code>&lt;div class="cursor"&gt;
     &lt;div class="cursor_ball cursor_ball_b"&gt;
