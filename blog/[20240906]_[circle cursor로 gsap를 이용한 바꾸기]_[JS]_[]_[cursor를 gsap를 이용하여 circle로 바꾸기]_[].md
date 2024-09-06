@@ -6,8 +6,7 @@
 <p data-ke-size="size16">
 <script src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 </p>
-<p data-ke-size="size16">&nbsp;</p>
-<p data-ke-size="size16">&nbsp;</p>
+<img src="https://blog.kakaocdn.net/dn/0LuFi/btsJveGbE4O/j4qGVn8cX40AWZOXcx3nH0/img.png" alt="cursor custom 모습">
 <p data-ke-size="size16">HTML</p>
 <pre id="code_1725612038519" class="html xml" data-ke-language="html" data-ke-type="codeblock"><code>&lt;div class="cursor"&gt;
     &lt;div class="cursor_ball cursor_ball_b"&gt;
